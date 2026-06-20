@@ -1,3 +1,3 @@
-:HL["/studia-dent-stomatologiya/_next/static/chunks/965832c2c14a59c2.css","style"]
-:HL["/studia-dent-stomatologiya/_next/static/chunks/5f410c792cc2d3ff.css","style"]
-0:{"buildId":"s0qX26dD8nw6MDIt_hmW9","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/demi-deti-stomatologiya/_next/static/chunks/965832c2c14a59c2.css","style"]
+:HL["/demi-deti-stomatologiya/_next/static/chunks/ff9dce48e97e37f5.css","style"]
+0:{"buildId":"aqU0PynU6AepAzetyRD6b","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
